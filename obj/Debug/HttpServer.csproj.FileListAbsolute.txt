@@ -1,0 +1,1 @@
+c:\users\qitsuk\documents\visual studio 2012\Projects\HttpServer\HttpServer\bin\Debug\HttpServer.exe.config
